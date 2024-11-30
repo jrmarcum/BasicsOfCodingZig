@@ -4,7 +4,7 @@ What this text is and what it is not: This text is intended to introduce the rea
 
 The programs are intended to be run in the terminal as that is common to most operating systems. Linux and Mac come preinstalled with a terminal. Windows may or may not have it pre-installed. "Windows Terminal" can be installed from the Microsoft store. Just do a search for it and install it.
 ## Installation and Setup of Zig
-To setup Zig for use, nativagate to the ziglang website and locate an appropriate package manager for your operating system. Install and follow the directions on how to perform further settings for use. If the language has been installed properly you will be able to type the following command in the terminal command line and receive the response shown:
+To setup Zig for use, nativagate to the ziglang website and locate an appropriate package manager for your operating system. Install and follow the directions on how to perform further settings for use. A package manager makes the install process much easier (brew for Mac, chocolatety for Windows, and varies based on linux distrobution). If the language has been installed properly you will be able to type the following command in the terminal command line and receive the response shown:
 ```
 $ zig version
 0.13.0
